@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 84fcc735087fe405d98deea5093e7379
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7731350073755856821
+    second: cpa__0
+  - first:
+      213: 3246609862000798130
+    second: cpa__1
+  - first:
+      213: -4478261982166554207
+    second: cpa__2
+  - first:
+      213: 544540644658303497
+    second: cpa__3
+  - first:
+      213: -1953171178217780709
+    second: cpa__4
+  - first:
+      213: -6373825541700648459
+    second: cpa__5
+  - first:
+      213: 6161881996856382899
+    second: cpa__6
+  - first:
+      213: 7858403668744731766
+    second: cpa__7
+  - first:
+      213: -4682531228821974036
+    second: cpa__8
+  - first:
+      213: -5379913867444142664
+    second: cpa__9
+  - first:
+      213: 3998210292883852511
+    second: cpa__10
+  - first:
+      213: -8171602779794397800
+    second: cpa__11
+  - first:
+      213: -1870726408730998477
+    second: cpa__12
+  - first:
+      213: 7782055868257538730
+    second: cpa__13
+  - first:
+      213: 8545001872960858908
+    second: cpa__14
+  - first:
+      213: 2287814514511355298
+    second: cpa__15
+  - first:
+      213: 8338262095615050202
+    second: cpa__16
+  - first:
+      213: 491718221537881705
+    second: cpa__17
+  - first:
+      213: -4653578532522192599
+    second: cpa__18
+  - first:
+      213: -7923272328927334093
+    second: cpa__19
+  - first:
+      213: -8463423988329234343
+    second: cpa__20
+  - first:
+      213: 6716763516206684273
+    second: cpa__21
+  - first:
+      213: 7454522739192490140
+    second: cpa__22
+  - first:
+      213: 6953882554187850603
+    second: cpa__23
+  - first:
+      213: -2039795333689409135
+    second: cpa__24
+  - first:
+      213: 441098193188036428
+    second: cpa__25
+  - first:
+      213: -2322629938821519476
+    second: cpa__26
+  - first:
+      213: 7634147902330635275
+    second: cpa__27
+  - first:
+      213: 3157566539920792695
+    second: cpa__28
+  - first:
+      213: -2521680660480697407
+    second: cpa__29
+  - first:
+      213: 4818783041908974557
+    second: cpa__30
+  - first:
+      213: 2200846865658655319
+    second: cpa__31
+  - first:
+      213: -7085556772985928752
+    second: cpa__32
+  - first:
+      213: -5465742509899875966
+    second: cpa__33
+  - first:
+      213: 128254334713983493
+    second: cpa__34
+  - first:
+      213: 4855060452223736928
+    second: cpa__35
+  - first:
+      213: 2839514556833396222
+    second: cpa__36
+  - first:
+      213: 3577204939366895636
+    second: cpa__37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cpa__0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 557
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a52a4ab61cdf4c90a1d1d2447133479
+      internalID: 7731350073755856821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 557
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134c1fb05b616428a9ae036f7d59f4ad
+      internalID: 3246609862000798130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 557
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddea2d59a1359417b9b65452ab64d187
+      internalID: -4478261982166554207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 557
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c2fc549a8274df89de6085cb2df524
+      internalID: 544540644658303497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 557
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a127faf9f94412aaa3b2b74a919cfb
+      internalID: -1953171178217780709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 552
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca36ccb087f45ebb11740d85fe528b
+      internalID: -6373825541700648459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 557
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331040bfcaf6d4e9c9532dea877b63fc
+      internalID: 6161881996856382899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 557
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aa8c5a6554f4065b517ca22f9b5ab2
+      internalID: 7858403668744731766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 557
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba9347c1cde9424482b063fbd91000a
+      internalID: -4682531228821974036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 557
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab10d3c325374107914e15b175cef22
+      internalID: -5379913867444142664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 557
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14803cf14254e43698c8e2dc246757f8
+      internalID: 3998210292883852511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 557
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfad3107d82243aaad1aaca28e83e27
+      internalID: -8171602779794397800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 557
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469cf67f9dad041a18f3fe8e1213e740
+      internalID: -1870726408730998477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 557
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baa414176db94efdbbe88a12fd85577
+      internalID: 7782055868257538730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 557
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f9d327b5aec40999fc6d8f464fe3a1
+      internalID: 8545001872960858908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 557
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9d4257af0fb4cfab8ca2c419131216
+      internalID: 2287814514511355298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 520
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d9d0979551e4b5a9791ff90562a5a5
+      internalID: 8338262095615050202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 521
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35665cc43cd64c9c91732640c2d28ea
+      internalID: 491718221537881705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 521
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ac84408554e4f4e9eb3ea50f3d61f8
+      internalID: -4653578532522192599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 521
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c97ec20d0244447802ab440bc6632f
+      internalID: -7923272328927334093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 521
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020526322a3b04b1e9867f5a0e027cf1
+      internalID: -8463423988329234343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 521
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34b199446659494395930af9c767a1b
+      internalID: 6716763516206684273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 521
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d317d33a01d436990b7653b083f3c3
+      internalID: 7454522739192490140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 521
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73042b470e3874740ab8066951fee863
+      internalID: 6953882554187850603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 516
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b445043b859c84e989d751724a0e708a
+      internalID: -2039795333689409135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 521
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ac1b67493fa4f12b91995fde0b7955
+      internalID: 441098193188036428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__26
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 521
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e3e20cd1b8f4c25a37ec7e64817dde
+      internalID: -2322629938821519476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 521
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48879e4f7554c6392ae78eac3fe9bd
+      internalID: 7634147902330635275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 521
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621efd2b4923c425199b5a019ee34e9c
+      internalID: 3157566539920792695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e51625016f1c4e83a7a2c4a45785420
+      internalID: -2521680660480697407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 64
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cffd2521f1d41488199c31c2954ca0
+      internalID: 4818783041908974557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 64
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e562a712b2fe046cc82f421fd7ef5eaa
+      internalID: 2200846865658655319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28946f9b8de1e4bf29c98c7979617a10
+      internalID: -7085556772985928752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49243f76b43c147f58cc83e65279868d
+      internalID: -5465742509899875966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b266f4e4154cf424bb6855750f2e3f23
+      internalID: 128254334713983493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 258
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d25de3d897b451ca82aa497170ddac
+      internalID: 4855060452223736928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 257
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e23ab276692240cabb098a4c066be26
+      internalID: 2839514556833396222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cpa__37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 256
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1142aa1cda147bdba6ca174a645094
+      internalID: 3577204939366895636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

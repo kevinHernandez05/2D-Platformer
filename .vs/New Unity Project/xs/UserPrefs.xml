@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/playerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/playerController.cs" Line="138" Column="50" />
+      <File FileName="Assets/Scripts/Teleportation.cs" />
+      <File FileName="Assets/Scripts/Sorting.cs" Line="12" Column="84" />
+      <File FileName="Assets/Add-ons/Game Jam Template/Scripts/Menu/StartOptions.cs" Line="151" Column="4" />
+      <File FileName="Assets/Scripts/Utilities/PlayerState.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Add-ons" expanded="True">
+                <Node name="Game Jam Template" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Menu" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Utilities" expanded="True" />
+                <Node name="playerController.cs" selected="True" />
+              </Node>
+              <Node name="Sprites" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cae096a9-e396-4193-969e-87a681041ca1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
